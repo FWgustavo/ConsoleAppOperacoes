@@ -22,21 +22,21 @@ namespace ConsoleAppNumeros
 
             if(op == "+")
             { double res = n1 + n2; 
-              Console.WriteLine("Sue resultado será:" +  res);
+              Console.WriteLine("Seu resultado será:" +  res);
             }
                 
             else if(op == "-")
             { double res = n1 - n2;
-                Console.WriteLine("Sue resultado será:" + res);
+                Console.WriteLine("Seu resultado será:" + res);
             }
             else if(op == "*") 
             { double res = n1 * n2;
-                Console.WriteLine("Sue resultado será:" + res);
+                Console.WriteLine("Seu resultado será:" + res);
             }
             else if(op == "/")
             { 
                 double res = n1 / n2;
-                Console.WriteLine("Sue resultado será:" + res);
+                Console.WriteLine("Seu resultado será:" + res);
             }
             else 
             {
